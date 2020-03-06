@@ -117,3 +117,40 @@ Answer 1
 ...     print("Default")
 ... 
 Answer 2
+
+100 - 90  A
+ 90 - 80  B
+ 80 - 60  C 
+ 60 - 50  D
+ 50 <     F 
+
+ x = int(input("Please Enter Your number: "))
+ if 100 > and 90 < 
+    print ("A")
+
+
+ x = int(input("Please Enter Exam Result: "))
+if x <50 :
+	print ( F )
+elif x > 49 and x < 60:
+	print (D)
+elif x > 59 and x < 80:
+	print (C)
+elif x > 79 and x < 90:
+	print (B)
+elif x > 89 and x < 101:
+	print (A)
+
+x = 50
+
+if x > 10:
+	print("x is ten")
+	if x > 20:
+		print ("x is greater than 20")
+	else:
+		print("No, x is not greater than 20")
+
+if x > 10 and x != 10 or x > 20:
+	print ("x is greater than 10 and 20")
+else:
+	print("x is not greater than 10 & 20")
